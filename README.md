@@ -9,12 +9,11 @@
 
  Create your own dependency list and let the program sort your plans!
 
- If you had 3 activities where 3 depends on 2, and 2 depends on 1, you would
-
+ If you had 3 activities where 3 depends on 2, and 2 depends on 1, you would 
  write your input file as:
 
  Activity_1 Activity_2
 
  Activity_2 Activity_3
- 
+
  Activity_3 
